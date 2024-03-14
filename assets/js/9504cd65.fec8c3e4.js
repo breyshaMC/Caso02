@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmisitioweb=self.webpackChunkmisitioweb||[]).push([[359],{1792:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/Caso02/blog/tags/facebook","allTagsPath":"/Caso02/blog/tags","count":1,"unlisted":false}')}}]);
