@@ -16,7 +16,7 @@ const config = {
   url: 'https://breyshaMC.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Caso02',
+  baseUrl: '/Caso03/build/',
   organizationName: 'breyshaMC', // Usually your GitHub org/user name.
   projectName: 'Caso02', // Usually your repo name.
   deploymentBranch: 'gh-pages',
